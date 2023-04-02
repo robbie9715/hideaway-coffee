@@ -7568,7 +7568,7 @@ h1, h2, h3, h4, h5,
   .owl-carousel.home-slider {
     position: relative;
     height: 750px;
-    z-index: 0; }
+    z-index: 2; }
     .owl-carousel.home-slider .slider-item {
       background-size: cover;
       background-repeat: no-repeat;
@@ -7769,7 +7769,7 @@ h1, h2, h3, h4, h5,
     margin-top: -80px; } }
 
 .ftco-intro .container-wrap {
-  z-index: 2 !important;
+  z-index: 1 !important;
   position: relative; }
 
 .ftco-intro .wrap {

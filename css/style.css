@@ -7766,7 +7766,7 @@ h1, h2, h3, h4, h5,
 
 @media (min-width: 992px) {
   .ftco-intro {
-    margin-top: -80px; } }
+    margin-top: -72px; } }
 
 .ftco-intro .container-wrap {
   position: relative; }
@@ -7779,7 +7779,7 @@ h1, h2, h3, h4, h5,
     @media (min-width: 1200px) {
       .ftco-intro .wrap .info {
         width: calc(100% - 35%);
-        padding: 2% 5% 2% 12%; } }
+        padding: 2% 5% 2% 2%; } }
     @media (max-width: 767.98px) {
       .ftco-intro .wrap .info {
         width: 100%; } }
